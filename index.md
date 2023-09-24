@@ -37,7 +37,9 @@ __Galway Community College, Galway.__
 ## Skills
 
 - Communication: Experience working at busy takeaway and restaurant, dealing with customers, and communicating with team to delegate work.
-
+- Resource management: Experience in allocating resources such as time and computational power appropriately based on priority of tasks.
+- Adaptivity: Ability to adapt to new environments and tools.
+- 
 
 
 ## Occupation
@@ -58,7 +60,6 @@ __Xperi__, Galway | *QA Testing Intern*
 `06/21 – 01/23`
 __Jalan Jalan__, Galway | *Waiter & Kitchen Porter*
 
-- 
 
 <!-- ### Footer
 
