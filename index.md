@@ -18,7 +18,7 @@ Studying and completing final year of Computer Science at University of Galway, 
 
 ### Interests
 
-Computer vision, deep learning, LLMs, and cybersecurity. 
+Machine Learning, and ethical hacking, as well as cybersecurity in general.
 
 
 ## Education
