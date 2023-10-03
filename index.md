@@ -5,11 +5,12 @@ title: Leo Chui's CV
 # Zhe Zhou Chui
 4th Year Undergrad Student.
 
+<!--
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
-
+-->
 
 ## Currently
 
@@ -18,7 +19,7 @@ Studying and completing final year of Computer Science at University of Galway, 
 
 ### Interests
 
-Machine Learning, and ethical hacking, as well as cybersecurity in general.
+Machine Learning, ethical hacking, and cybersecurity in general.
 
 
 ## Education
@@ -36,15 +37,18 @@ __Galway Community College, Galway.__
 
 ## Skills
 
-- Communication: Experience working at busy takeaway and restaurant, dealing with customers, and communicating with team to delegate work.
+- Java: Extensive use in Year 2, 3, and 4. Language used for many assignments and projects.
+- Python: Extensive use in 8-months internship and Year 4. Used for various purposes, such as scripting, automation, and GUI development. 
+- Teamwork: Long experience working with teams in different settings, such as waiters in restaurant, teammates for project, test engineers on QA team, and data/acquisition technicians.
+- Communication: Long experience of effective communication with different people, such as customers, teachers, lecturers, and teammates.
 - Resource management: Experience in allocating resources such as time and computational power appropriately based on priority of tasks.
 - Adaptivity: Ability to adapt to new environments and tools.
-- 
 
 
-## Occupation
 
-`03/23 - Present`
+## Work Experience
+
+`08/23 - Present`
 __Xperi__, Galway | *Data Technician*
 
 - Oversees successful operation of data acquisitions
