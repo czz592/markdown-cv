@@ -17,7 +17,7 @@ title: Leo Chui's CV
 Studying and completing final year of Computer Science at University of Galway, self-learning machine learning, and continuously self-improving.
 
 
-### Interests
+#### Interests
 
 Machine Learning, ethical hacking, and cybersecurity in general.
 
@@ -37,12 +37,12 @@ __Galway Community College, Galway.__
 
 ## Skills
 
-- Java: Extensive use in Year 2, 3, and 4. Language used for many assignments and projects.
-- Python: Extensive use in 8-months internship and Year 4. Used for various purposes, such as scripting, automation, and GUI development. 
-- Teamwork: Long experience working with teams in different settings, such as waiters in restaurant, teammates for project, test engineers on QA team, and data/acquisition technicians.
-- Communication: Long experience of effective communication with different people, such as customers, teachers, lecturers, and teammates.
-- Resource management: Experience in allocating resources such as time and computational power appropriately based on priority of tasks.
-- Adaptivity: Ability to adapt to new environments and tools.
+- **Java**: Extensive use in Year 2, 3, and 4. Language used for many assignments and projects.
+- **Python**: Extensive use in 8-months internship and Year 4. Used for various purposes, such as scripting, automation, and GUI development. 
+- **Teamwork**: Long experience working with teams in different settings, such as waiters in restaurant, teammates for project, test engineers on QA team, and data/acquisition technicians.
+- **Communication**: Long experience of effective communication with different people, such as customers, teachers, lecturers, and teammates.
+- **Resource management**: Experience in allocating resources such as time and computational power appropriately based on priority of tasks.
+- **Adaptivity**: Ability to adapt to new environments and tools.
 
 
 
@@ -67,4 +67,4 @@ __Jalan Jalan__, Galway | *Waiter & Kitchen Porter*
 
 <!-- ### Footer
 
-Last updated: September, 2023 -->
+Last updated: October, 2023 -->
