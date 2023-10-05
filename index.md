@@ -17,7 +17,7 @@ title: Leo Chui's CV
 Studying and completing final year of Computer Science at University of Galway, self-learning machine learning, and continuously self-improving.
 
 
-### Interests
+## Interests
 
 Machine Learning, ethical hacking, and cybersecurity in general.
 
