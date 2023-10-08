@@ -25,7 +25,7 @@ Machine Learning, ethical hacking, and cybersecurity in general.
 ## Education
 
 `Sep 2020 - Present`
-**Bachelor of Science, Computer Science and Information Technology** at __University of Galway, Ireland__
+**B.Sc. (Hons.) in Computer Science and Information Technology** at __University of Galway, Ireland__
 
 - Student
 
