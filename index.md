@@ -3,7 +3,7 @@ layout: cv
 title: Leo Chui's CV
 ---
 # Zhe Zhou Chui
-4th Year Undergrad Computer Science student.
+Galway, Ireland | +353 894453570 | 491979781leo@gmail.com
 
 <!--
 <div id="webaddress">
@@ -12,14 +12,18 @@ title: Leo Chui's CV
 </div>
 -->
 
+## Summary
+
+Motivated Computer Science undergraduate with strong foundation in Java and Python, experienced in software testing and development, with high proficiency of clear and effective communication with collaborative teams of diverse backgrounds. Driven to acquire hands-on experience of problem-solving, and eager to engage in environments promoting constant and continuous growth and learning.
+
 ## Currently
 
-Studying and completing final year of Computer Science at University of Galway, self-learning machine learning, and continuously self-improving.
+Studying and striving to complete final year of Computer Science & Information Technology at University of Galway with First Class Honours, passionate about continuous learning and self-improvement, and using new technology to solve problems and drive innovation.
 
 
 ### Interests
 
-Machine Learning, cybersecurity, and software engineering.
+Machine Learning, cybersecurity, automotive engineering, and software engineering.
 
 
 ## Education
@@ -47,12 +51,19 @@ __Galway Community College, Galway.__
 
 ## Work Experience
 
-`08/23 - Present`
+`11/23 - Present`
 __Xperi__, Galway | *Data Technician*
+
+- Annotate and prepare data for Machine Learning Team
+- Engage in daily standups to report progress
+- Automation scripting to improve workflow and increase efficiency
+
+
+`08/23 - 11/23`
+__Xperi__, Galway | *Acquisition Technician*
 
 - Oversees successful operation of data acquisitions
 - Annotate and prepare data for Machine Learning Team
-- Automation scripting to improve workflow and increase efficiency
 
 
 `01/23 - 08/23`
