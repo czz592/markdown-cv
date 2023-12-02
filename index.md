@@ -3,7 +3,7 @@ layout: cv
 title: Leo Chui's CV
 ---
 # Zhe Zhou Chui
-4th Year Undergrad Student.
+4th Year Undergrad Computer Science student.
 
 <!--
 <div id="webaddress">
@@ -19,7 +19,7 @@ Studying and completing final year of Computer Science at University of Galway, 
 
 ### Interests
 
-Machine Learning, ethical hacking, and cybersecurity in general.
+Machine Learning, cybersecurity, and software engineering.
 
 
 ## Education
@@ -37,13 +37,12 @@ __Galway Community College, Galway.__
 
 ## Skills
 
-- **Java**: Extensive use in Year 2, 3, and 4. Language used for many assignments and projects.
-- **Python**: Extensive use in 8-months internship and Year 4. Used for various purposes, such as scripting, automation, and GUI development. 
-- **Teamwork**: Long experience working with teams in different settings, such as waiters in restaurant, teammates for project, test engineers on QA team, and data/acquisition technicians.
+- **Java**: Extensive use in Year 2, 3, and 4 of university. Language used for many assignments and projects.
+- **Python**: Extensive use in 8-months internship and Year 4 of university. Used for various purposes, such as scripting, automation, and GUI development. 
+- **Teamwork**: Long experience working with teams in different settings, such as waiters in restaurant, teammates for project, test engineers on QA team, and data & acquisition technicians.
 - **Communication**: Long experience of effective communication with different people, such as customers, teachers, lecturers, and teammates.
 - **Resource management**: Experience in allocating resources such as time and computational power appropriately based on priority of tasks.
 - **Adaptivity**: Ability to adapt to new environments and tools.
-
 
 
 ## Work Experience
@@ -53,6 +52,8 @@ __Xperi__, Galway | *Data Technician*
 
 - Oversees successful operation of data acquisitions
 - Annotate and prepare data for Machine Learning Team
+- Automation scripting to improve workflow and increase efficiency
+
 
 `01/23 - 08/23`
 __Xperi__, Galway | *QA Testing Intern*
@@ -61,10 +62,15 @@ __Xperi__, Galway | *QA Testing Intern*
 - Communicated test results, issues, and bugs found via reports
 - Optimised workflow by implementing new features in in-house test automation software
 
+
 `06/21 – 01/23`
 __Jalan Jalan__, Galway | *Waiter & Kitchen Porter*
+
+- Communicated with team members to ensure high-quality service to customers
+- Engaged with customers to answer questions and resolve complaints
+- Organised and cleaned serving areas before, during, and after service hours to increase work efficiency.
 
 
 <!-- ### Footer
 
-Last updated: October, 2023 -->
+Last updated: 2nd December, 2023 -->
