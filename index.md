@@ -14,11 +14,11 @@ Galway, Ireland | +353 894453570 | 491979781leo@gmail.com
 
 ## Summary
 
-Motivated Computer Science undergraduate with strong foundation in Java and Python, experienced in software testing and development, with high proficiency of clear and effective communication with collaborative teams of diverse backgrounds. Driven to acquire hands-on experience of problem-solving, and eager to engage in environments promoting constant and continuous growth and learning.
+Motivated Computer Science undergraduate experienced in software testing and development, with high proficiency of clear and effective communication with collaborative teams of diverse backgrounds. Driven to acquire hands-on experience of problem-solving, and eager to engage in environments promoting constant and continuous growth and learning.
 
 ## Currently
 
-Studying and striving to complete final year of Computer Science & Information Technology at University of Galway with First Class Honours, passionate about continuous learning and self-improvement, and using new technology to solve problems and drive innovation.
+Passionate about continuous learning and self-improvement, and using new technology to solve problems and drive innovation.
 
 
 ### Interests
@@ -31,51 +31,47 @@ Machine Learning, cybersecurity, automotive engineering, and software engineerin
 `Sep 2020 - Present`
 **B.Sc. (Hons.) in Computer Science and Information Technology** at __University of Galway, Ireland__
 
-- Student
-
 `2014-2020`
-__Galway Community College, Galway.__
-
-- Student
+**Leaving Certificate** at __Galway Community College, Galway.__
 
 
 ## Skills
 
-- **Java**: Extensive use in Year 2, 3, and 4 of university. Language used for many assignments and projects.
-- **Python**: Extensive use in 8-months internship and Year 4 of university. Used for various purposes, such as scripting, automation, and GUI development. 
-- **Teamwork**: Long experience working with teams in different settings, such as waiters in restaurant, teammates for project, test engineers on QA team, and data & acquisition technicians.
-- **Communication**: Long experience of effective communication with different people, such as customers, teachers, lecturers, and teammates.
+- **Teamwork**: Long experience working with teams in different settings, such as waiters in restaurant, teammates for academic project, test engineers on QA team, and data & acquisition technicians.
+- **Communication**: Excellent communication skills developed from extensive experience of effective communication with people such as customers, teachers, lecturers, and teammates in a diverse set of environments.
 - **Resource management**: Experience in allocating resources such as time and computational power appropriately based on priority of tasks.
-- **Adaptivity**: Ability to adapt to new environments and tools.
+- **Adaptability**: Ability to adapt to new environments and tools.
 
 
 ## Work Experience
 
-`11/23 - Present`
-__Xperi__, Galway | *Data Technician*
+#### __Xperi__, Galway
 
-- Annotate and prepare data for Machine Learning Team
-- Engage in daily standups to report progress
-- Automation scripting to improve workflow and increase efficiency
+`11/23 - 04/24`
+*Data Technician*
+
+- Annotated and prepared data for Machine Learning Team.
+- Engaged in daily standups to report progress.
+- Improved workflow and efficiency by automation scripting.
 
 
 `08/23 - 11/23`
-__Xperi__, Galway | *Acquisition Technician*
+*Acquisition Technician*
 
-- Oversees successful operation of data acquisitions
-- Annotate and prepare data for Machine Learning Team
+- Oversaw successful operation of data acquisitions.
 
 
 `01/23 - 08/23`
-__Xperi__, Galway | *QA Testing Intern*
+*QA Testing Intern*
 
-- Tested different software across multiple releases
-- Communicated test results, issues, and bugs found via reports
-- Optimised workflow by implementing new features in in-house test automation software
+- Tested different software across multiple releases and reported results, issues, and bugs found.
+- Communicated test results, issues, and bugs found via reports.
+- Optimised workflow by implementing new features in in-house test automation software.
 
+#### __Jalan Jalan__, Galway
 
 `06/21 – 01/23`
-__Jalan Jalan__, Galway | *Waiter & Kitchen Porter*
+ *Waiter & Kitchen Porter*
 
 - Communicated with team members to ensure high-quality service to customers
 - Engaged with customers to answer questions and resolve complaints
@@ -84,4 +80,4 @@ __Jalan Jalan__, Galway | *Waiter & Kitchen Porter*
 
 <!-- ### Footer
 
-Last updated: 2nd December, 2023 -->
+Last updated: 31/5/2024 -->
