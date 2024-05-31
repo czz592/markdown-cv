@@ -45,7 +45,7 @@ Machine Learning, cybersecurity, automotive engineering, and software engineerin
 
 ## Work Experience
 
-#### __Xperi__, Galway
+__Xperi__, Galway
 
 `11/23 - 04/24`
 *Data Technician*
@@ -68,7 +68,7 @@ Machine Learning, cybersecurity, automotive engineering, and software engineerin
 - Communicated test results, issues, and bugs found via reports.
 - Optimised workflow by implementing new features in in-house test automation software.
 
-#### __Jalan Jalan__, Galway
+__Jalan Jalan__, Galway
 
 `06/21 – 01/23`
  *Waiter & Kitchen Porter*
