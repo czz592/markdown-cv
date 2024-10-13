@@ -51,7 +51,7 @@ __Xperi__, Galway
 `08/23 - 11/23`
 *Acquisition Technician*
 
-- Oversaw successful operation of data acquisitions.
+- Ensured successful data acquisitions by preparing setups and participants, resolving issues, documenting events affecting data, and facilitating transitions between technicians.
 
 
 `01/23 - 08/23`
