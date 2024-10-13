@@ -12,28 +12,21 @@ Galway, Ireland | +353 894453570 | 491979781leo@gmail.com
 </div>
 -->
 
-## Summary
+## Professional Summary
 
-Motivated Computer Science undergraduate experienced in software testing and development, with high proficiency of clear and effective communication with collaborative teams of diverse backgrounds. Driven to acquire hands-on experience of problem-solving, and eager to engage in environments promoting constant and continuous growth and learning.
-
-## Currently
-
-Passionate about continuous learning and self-improvement, and using new technology to solve problems and drive innovation.
-
+Motivated graduate currently persuing a Master's in Adaptive Cybersecurity experienced in software testing and development, with high proficiency of clear and effective communication with collaborative teams of diverse backgrounds. Driven to acquire hands-on experience of problem-solving, and eager to engage in environments promoting constant and continuous growth and learning.
 
 ### Interests
 
-Machine Learning, cybersecurity, automotive engineering, and software engineering.
-
+Machine Learning, cybersecurity, and software engineering.
 
 ## Education
 
-`Sep 2020 - Present`
+`Sep 2024 - 2025`
+**MSc. in Adaptive Cybersecurity** at __University of Galway, Ireland__
+
+`Sep 2020 - Sep 2024`
 **B.Sc. (Hons.) in Computer Science and Information Technology** at __University of Galway, Ireland__
-
-`2014-2020`
-**Leaving Certificate** at __Galway Community College, Galway.__
-
 
 ## Skills
 
